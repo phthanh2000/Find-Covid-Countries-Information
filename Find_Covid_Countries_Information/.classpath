@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="library/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="library/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="library/httpasyncclient-4.1.4.jar"/>
+	<classpathentry kind="lib" path="library/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="library/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="library/httpcore-nio-4.4.13.jar"/>
+	<classpathentry kind="lib" path="library/httpmime-4.5.13.jar"/>
+	<classpathentry kind="lib" path="library/java-json.jar"/>
+	<classpathentry kind="lib" path="library/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="library/jdatepicker-1.3.2.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/servlet.jar"/>
+	<classpathentry kind="lib" path="library/Jfree/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="library/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="library/jfreechart.jar"/>
+	<classpathentry kind="lib" path="library/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="library/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="library/rs2xml.jar"/>
+	<classpathentry kind="lib" path="library/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="library/unirest-java-3.13.3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
